@@ -1,0 +1,55 @@
+body
+{
+	font-family: Verdana, sans-serif;
+}
+
+h1
+{
+	color: #666;
+	font-size: 47px;
+	margin-top: 45px;
+	font-weight: 500;
+}
+
+h2
+{
+	color: #f07c17;
+	font-weight: bolder;
+	font-size: 24px;
+}
+
+ul
+{
+	margin: 35px 1px;
+}
+
+ul > li
+{
+	font-size: 16px;
+	font-weight: 500;
+	margin-top: 8px;
+}
+
+p
+{
+	margin-top: 8px;
+	font-size: 16px;
+	line-height: 200%;
+}
+
+.standard-margin-bottom
+{
+	margin-bottom: 28px;
+}
+
+.standard-margin-top
+{
+	margin-top:20px;
+}
+
+.side-bar-box
+{
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	padding: 12px 31px;
+}
